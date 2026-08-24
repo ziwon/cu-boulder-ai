@@ -1,0 +1,15 @@
+[project]
+name = "cu-boulder-ai"
+version = "0.1.0"
+description = "Hands-on notes and experiments for CU Boulder AI coursework"
+requires-python = ">=3.11"
+dependencies = [
+  "ipykernel>=6.29",
+  "jupyterlab>=4.2",
+  "matplotlib>=3.9",
+  "numpy>=2.0",
+  "opencv-python>=4.10",
+  "pillow>=10.4",
+  "torch>=2.4",
+  "torchvision>=0.19",
+]
